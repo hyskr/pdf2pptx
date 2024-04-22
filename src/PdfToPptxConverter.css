@@ -1,0 +1,17 @@
+.container {
+    margin: 20px;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.pdf-container {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.progress-bar {
+    margin-top: 10px;
+}
